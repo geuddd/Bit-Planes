@@ -1,2 +1,1 @@
-# Bit-Planes
-unblockedgamesparadise.com
+<iframe src="https://v6p9d9t4.ssl.hwcdn.net/html/2713283/dist/index.html" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="100%" width="100%" allowfullscreen></iframe>
